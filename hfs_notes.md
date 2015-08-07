@@ -18,18 +18,17 @@ How impactful are financial decisions/pecuniary mistakes during 'bulk' wealth bu
 
 How are families affected if there are fewer people who exist during 'bulk wealth building years'?
 
-'Missing males' -- Stephen Bronars research.
+'Missing males' -- Stephen Bronars' research.
 
-Could expanding EITC reduce the phenomenoa of missing males in low income urban areas by incentivizing work via tax burden reduction?
+Could expanding EITC reduce the phenomenoa of missing males in low income urban areas by incentivizing work via tax burden reduction? [Hoynes and Patel]
 
 Does this expansion promote wage growth? Would it reduce dependency on transfer payments?
 
 In effect could this prevent 'Network destruction'.
 
-Brain devotion and cognitive burden: living in poverty is stressful and time occupying, how does it affect ability to honor financial obligations?
+Brain devotion and cognitive burden: living in poverty is stressful and time occupying, how does it affect ability to honor financial obligations? How can financial institutions engage or help customers?
 
-The underbanked have high material costs: cashing checks and paying bills are expensive. What other material costs are associated with this population? I.e. do they lack access to multiple shopping options, what types of goods are most frequently available to them (alcohol)
-
+The underbanked have high material costs: cashing checks and paying bills are expensive. What other material costs are associated with this population? I.e. do they lack access to multiple shopping options, what types of goods are most frequently available to them (alcohol) [Marianne Bertrand, Sendhil Mullainathan, Eldar Shafir]
 
 Does access to faster modes of transportation improve balance sheets? Not strictly speaking as transportation as a financial asset, but is transportation a technology that allows for better control over time, thereby reducing tradeoffs or cognitive burden? Are there other exogenous factors in the livlihoods of the underbanked that impede access to the financial system?
 
