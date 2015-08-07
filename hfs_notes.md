@@ -2,7 +2,9 @@ Thoughts:
 ---------
 How do familial networks impact wealth. How do they influence debt assumption; or debt avoidance; or debt reduction; propensity to save; the need to save; the ability to absorb shock; liquidity; health. Ultimately, how do these networks influence progenial decision making and how does that impact wealth growth across racial and ethnic lines.
 
-How can improved access to financial products improve wealth. What can enhance the outcomes of such access? Financial education? Better education in general? 
+How can improved access to financial products improve wealth. What can enhance the outcomes of such access? Financial education? Better education in general? What community programs can help? 
+
+Field test Kingdom House and St. Louis Community Credit Union and balance sheet health improvement. High interest rate Loan burden mitigation. [Carter, Skiba, Tobacman at Wharton; U of Wisc Field Testing Outcome Measures for Community-based Financial Coaching and Capability Programs.]
 
 Why are there even wider gaps in financial health scores when looking at racial and ethnic groups that are middle-aged and well educated?
 
@@ -21,6 +23,8 @@ How are families affected if there are fewer people who exist during 'bulk wealt
 'Missing males' -- Stephen Bronars' research.
 
 Could expanding EITC reduce the phenomenoa of missing males in low income urban areas by incentivizing work via tax burden reduction? [Hoynes and Patel]
+
+How does EITC expansion impact childhood health and cognitive function. How are these effects represented in balance sheet outcomes? [Arloc Sherman CBPP.org, http://www.cbpp.org/blog/brain-studies-highlight-importance-of-anti-poverty-policies-for-children]
 
 Does this expansion promote wage growth? Would it reduce dependency on transfer payments?
 
