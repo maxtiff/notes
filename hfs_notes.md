@@ -4,6 +4,8 @@ How do familial networks impact wealth. How do they influence debt assumption; o
 
 How can improved access to financial products improve wealth. What can enhance the outcomes of such access? Financial education? Better education in general? What community programs can help? 
 
+Can technology reduce status quo bias and other barriers to balance sheet building. What sorts of systems would be most effective? What are the caveats of these systems?
+
 Field test Kingdom House and St. Louis Community Credit Union and balance sheet health improvement. High interest rate Loan burden mitigation. [Carter, Skiba, Tobacman at Wharton; U of Wisc Field Testing Outcome Measures for Community-based Financial Coaching and Capability Programs.]
 
 Is entry into traditional financial markets (mortage borrowing for many) for the historical underbanked more costly than it is for non-underbanked? [SPECULATION: What sortof spectre exists that prevents people from making informed decisions? Do they inherently trust or yield to the person with whom they are dealing?]
@@ -44,8 +46,6 @@ How does historical lack of economic opportunity prevent wealth gains presently?
 
 Does this lack of opportunity force participation in black markets? How would elimination of those markets affect households?
 
-[Identity threat?] 
-
 How do certain events or policies affect asset building across discrete racial and ethnic groups?
 
 How do financial shocks reverberate in households that have poor balance sheet health/little liquidity. Are there amplification effects? How can a household mitigate these effects?
@@ -59,5 +59,3 @@ Location and longterm financial well-being. Rural vs Urban.
 Status quo bias amongst people with poor balance sheet health.
 
 Technology and new access to financial markets. What are poor countries doing? How do financial companies mitigate risk and cost associated with acquiring new customers. Once acquired, how does financial health improve. Compare to populations in the United States.
-
-What accounts for widening wealth gap between young and old? Racial and ethnic diversity? Is it access to pensions or assets that later generations don't have? Is it accumulated debt from periods of high interest rates? Is there debt aversion/avoidance in older generations? Do financial recessions of peculiar nature change financial habits significantly?
