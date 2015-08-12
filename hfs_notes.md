@@ -12,12 +12,6 @@ Is entry into traditional financial markets (mortage borrowing for many) for the
 
 What hazards do formerly underbanked or unbanked clients face when entering a market in which there is extreme information asymmetry. What types of pecuniary mistakes do they make?
 
-How does mortgage broker rent seeking behavior affect costs for new entrants into financial markets.[reword]
-
-Why are there even wider gaps in financial health scores when looking at racial and ethnic groups that are middle-aged and well educated?
-
-Other than age and education, what could possibly explain the differences in wealth accumulation across racial and ethnic lines?
-
 Trade-off glut. Time poverty. Does this affect single female households more, single male households, dual households. How does parity allow for trade-off reduction.
 
 How impactful are financial decisions/pecuniary mistakes during 'bulk' wealth building years? 
